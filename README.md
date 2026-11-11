@@ -21,7 +21,7 @@ GitHub Actions, push veya **Run workflow** ile aynı debug derlemesini çalışt
 
 ## Görünüm 
 
-<img width="520" height="1340" alt="Screenshot_20261112_001816" src="https://github.com/user-attachments/assets/67166f1d-f77c-4fd1-959e-184dc892b09d" />
+<img width="540" height="1170" alt="Screenshot_20261112_001816" src="https://github.com/user-attachments/assets/67166f1d-f77c-4fd1-959e-184dc892b09d" />
 
 
 
