@@ -19,6 +19,12 @@ Windows PowerShell'de `./gradlew.bat assembleDebug` komutunu kullanın. Android 
 
 GitHub Actions, push veya **Run workflow** ile aynı debug derlemesini çalıştırır. Başarılı derlemede **dosya-yoneticisi-debug** adlı artifact APK'yı içerir.
 
+## Görünüm 
+
+<img width="1080" height="2340" alt="Screenshot_20261112_001816" src="https://github.com/user-attachments/assets/67166f1d-f77c-4fd1-959e-184dc892b09d" />
+
+
+
 ## Kullanım
 
 - **Dosyalar → Klasör bağla** ile Android belge seçicisinden erişim verin. Android 11 ve sonrasında **Paylaşılan depolamayı gez** seçeneği, paylaşılan depolamanın kökünden gezinmek için sistemin tüm dosyalara erişim ekranını açar.
